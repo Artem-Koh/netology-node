@@ -1,1 +1,3 @@
-# netology-node
+# Домашнее задание
+Задание 1 - date.js
+Задание 2 - game.js
